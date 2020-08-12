@@ -14,3 +14,8 @@ This application was built on DotNet Core 3.1 and uses nothing more than just `S
 to run this application on Dotnet Frameworks higher or lower than Core 3.1.1
 
 You should be able to download or fork this repository and run the application via Visual Studio, VS Code or using a non-Microsoft tool such as JetBrains Rider.
+
+## Runtime operations
+
+If you would like to test out the different return messages, just adjust the which `operationsystems` `options`
+you would like to have set during the execution of the application. 
