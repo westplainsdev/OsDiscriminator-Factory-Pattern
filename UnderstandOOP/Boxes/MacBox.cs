@@ -1,4 +1,4 @@
-﻿namespace UnderstandOOP
+﻿namespace UnderstandOOP.Boxes
 {
 	public sealed class MacBox : IBoxSpecifier // Singleton Pattern
 	{

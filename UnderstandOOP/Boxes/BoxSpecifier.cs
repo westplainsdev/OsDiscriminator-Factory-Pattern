@@ -1,4 +1,4 @@
-﻿namespace UnderstandOOP
+﻿namespace UnderstandOOP.Boxes
 {
 	public interface IBoxSpecifier
 	{
