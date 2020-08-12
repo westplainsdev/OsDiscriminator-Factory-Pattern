@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandOOP", "UnderstandOOP\UnderstandOOP.csproj", "{7E6C056D-C457-4190-9346-B0F0CD6B205A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E6C056D-C457-4190-9346-B0F0CD6B205A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6C056D-C457-4190-9346-B0F0CD6B205A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6C056D-C457-4190-9346-B0F0CD6B205A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6C056D-C457-4190-9346-B0F0CD6B205A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

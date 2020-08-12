@@ -1,0 +1,13 @@
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.exe
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.deps.json
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.runtimeconfig.json
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.runtimeconfig.dev.json
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.dll
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\bin\Debug\netcoreapp3.1\UnderstandOOP.pdb
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.csprojAssemblyReference.cache
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.csproj.CoreCompileInputs.cache
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.AssemblyInfoInputs.cache
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.AssemblyInfo.cs
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.dll
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.pdb
+C:\_Development_DotNet\UnderstandOOP\UnderstandOOP\obj\Debug\netcoreapp3.1\UnderstandOOP.genruntimeconfig.cache
