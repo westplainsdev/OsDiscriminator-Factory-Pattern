@@ -6,7 +6,7 @@ namespace UnderstandOOP
     {
         private static void Main(string[] args)
         {
-            OsDiscriminator.DetermineType("Windows 8.1");
+            OsDiscriminator.DetermineType("MS Dos");
             Console.WriteLine(OsDiscriminator.BoxSpecifier.Statement);
         }
     }

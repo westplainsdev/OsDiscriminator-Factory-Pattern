@@ -9,6 +9,6 @@
 		{
 		}
 
-		public string Statement => "This is a bare metal box. No OS exists here.";
+		public string Statement => "This is an Unknown Operation System.";
 	}
 }
