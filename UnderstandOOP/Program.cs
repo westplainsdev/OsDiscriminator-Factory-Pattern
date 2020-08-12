@@ -6,7 +6,7 @@ namespace UnderstandOOP
     {
         private static void Main(string[] args)
         {
-            OsDiscriminator.DetermineType(Options.OperatingSystem["MINT"]);
+            OsDiscriminator.DetermineType(OperatingSystems.Options["WINDOWS10"]);
             Console.WriteLine(OsDiscriminator.GetBoxSpecifier.Statement);
         }
     }
