@@ -6,8 +6,8 @@ namespace UnderstandOOP
     {
         private static void Main(string[] args)
         {
-            OsDiscriminator.DetermineType("MS Dos");
-            Console.WriteLine(OsDiscriminator.BoxSpecifier.Statement);
+            OsDiscriminator.DetermineType(Options.OperatingSystem["MINT"]);
+            Console.WriteLine(OsDiscriminator.GetBoxSpecifier.Statement);
         }
     }
 }

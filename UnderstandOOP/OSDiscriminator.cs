@@ -7,7 +7,7 @@ namespace UnderstandOOP
 	{
 		private static readonly Hashtable Storage = new Hashtable();
 
-		public static IBoxSpecifier BoxSpecifier
+		public static IBoxSpecifier GetBoxSpecifier
 		{
 			get
 			{
