@@ -7,6 +7,7 @@ namespace UnderstandOOP
         public static readonly Dictionary<string, string> Options = new Dictionary<string, string>()
         {
             {"MS_DOS", "MS DOS"},
+            {"WINDOWS11", "Windows 11"},
             {"WINDOWS10", "Windows 10"},
             {"WINDOWS8", "Windows 8.1"},
             {"WINDOWS7", "Windows 7"},
